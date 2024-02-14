@@ -3,7 +3,7 @@
     <fullName>Testing_Temp_Field__c</fullName>
     <description>Testing Temp Field - Copado (will be deleted)</description>
     <externalId>false</externalId>
-    <label>Testing Temp Field</label>
+    <label>Testing Temp Field_1</label>
     <length>50</length>
     <required>false</required>
     <trackFeedHistory>false</trackFeedHistory>
